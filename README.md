@@ -10,7 +10,7 @@ A custom **parabolic dish** was designed and manufactured to improve directional
 ![System UI](https://github.com/orcohen9826/Acoustic-Drones-Detection/blob/main/images/UI.jpg)
 
 ### Parabolic Dish Polar Pattern  
-![Parabolic Polar Pattern](images/parabolic_polar_pattern.png)
+![Parabolic Polar Pattern](https://github.com/orcohen9826/Acoustic-Drones-Detection/blob/main/images/parabolic_data.jpg)
 
 ---
 
